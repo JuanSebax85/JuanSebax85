@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://res.cloudinary.com/dyp4gbggw/image/upload/v1778525236/Banner_github_xvcgyn.png" width="80%" />
+</p>
 
-<!--
-**JuanSebax85/JuanSebax85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hola, soy Juan Sebastian</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Desarrollador de software apasionado por la tecnología y el aprendizaje constante.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cs,mysql,git,aws" />
+</p>
+
+- JavaScript
+- Python
+- C#
+- SQL
+- Git
+- AWS
+
+---
+
+## 🎨 Diseño y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+- Figma
+- Photoshop
+- Illustrator
+---
+
+## 📚 Actualmente
+
+- Aprendiendo nuevas tecnologías y mejores prácticas de desarrollo.
+- Fortaleciendo habilidades en desarrollo backend y cloud.
+- Construyendo proyectos personales y profesionales.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanSebax85&theme=horizon&locale=es" />
+</p>
